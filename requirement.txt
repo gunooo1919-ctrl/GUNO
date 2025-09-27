@@ -1,0 +1,24 @@
+# Dasar
+jupyter
+ipython
+
+# Analisis Data
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning (opsional, jika ada simulasi ML)
+scikit-learn
+
+# Pengolahan File/Multimedia
+Pillow           # Untuk gambar
+moviepy          # Untuk video
+librosa          # Untuk audio
+
+# Dokumentasi dan File
+openpyxl         # Untuk file Excel
+python-docx      # Untuk file Word
+nbconvert        # Untuk konversi notebook
+
+# Lain-lain (tambahkan jika ada kebutuhan khusus)
