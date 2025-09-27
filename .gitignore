@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Output & log
+*.log
+*.out
+*.tmp
+
+# Data
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Ignore large raw data files (keep only small sample CSVs)
+data/raw/
+assets/audio/
+assets/video/
+assets/manuscripts/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+
+# Docs & backup
+*.bak
+*.old
+*.orig
+~$*
+
+# Misc
+*.pdf
+*.pptx
+*.docx
