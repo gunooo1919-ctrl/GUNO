@@ -1,0 +1,7 @@
+id,name,type,description,source/cultural_origin,contributor,license,link/path,date_added,notes
+1,00_start_here.ipynb,notebook,Notebook pengantar penggunaan repo,Indonesia,gunooo1919-ctrl,MIT,notebooks/00_start_here.ipynb,2025-09-27,
+2,contoh_data.csv,dataset,Dataset contoh transaksi sederhana,Indonesia,gunooo1919-ctrl,CC-BY,data/contoh_data.csv,2025-09-27,
+3,cerita_manuskrip.txt,manuscript,Cerita tradisional tentang tata kelola keuangan,Sunda,kontributorA,CC-BY,assets/manuscripts/cerita_manuskrip.txt,2025-09-27,
+4,lagu_nasihat_keuangan.mp3,audio,Lagu tradisional berisi nasihat keuangan,Minang,kontributorB,CC-BY,assets/audio/lagu_nasihat_keuangan.mp3,2025-09-27,Terdapat transkrip di README_NOTES.md
+5,video_edukasi.mp4,video,Video edukasi budgeting berbasis budaya,Bali,kontributorC,CC-BY,assets/video/video_edukasi.mp4,2025-09-27,
+6,ethics_consent_template.docx,doc,Template persetujuan & etika untuk riset komunitas,Indonesia,gunooo1919-ctrl,CC-BY,docs/ethics_consent_template.docx,2025-09-27,
